@@ -1,0 +1,9 @@
+{
+  "name": "dg-welcome-bot",
+  "version": "1.0.0",
+  "description": "DG Z Welcome Bot",
+  "main": "bot.js",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
